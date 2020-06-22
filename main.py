@@ -8,6 +8,7 @@ import functools
 import jwt
 
 # pylint: disable=import-error
+#! /usr/bin/env python3
 from flask import Flask, jsonify, request, abort
 
 
